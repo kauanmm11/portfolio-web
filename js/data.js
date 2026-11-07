@@ -19,7 +19,7 @@ const projectsData = [
     description: "[PROJETO DEMONSTRATIVO] Landing page elegante para escritório de advocacia. Interface clean com foco em conversão, cards interativos e seção FAQ. Desenvolvido para mostrar expertise em criação de sites para o mercado jurídico.",
     technologies: ["HTML5", "CSS3", "JavaScript", "Web Accessibility"],
     githubUrl: "https://github.com/kauanmm11/vrcadvocacia",
-    liveUrl: "https://kauanmm11.github.io/vrcadvocacia/"
+    liveUrl: "https://kauanmm11.github.io/valenca-rc-ad/"
   }
 ];
 
